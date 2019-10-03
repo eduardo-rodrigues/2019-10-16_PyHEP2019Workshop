@@ -15,9 +15,11 @@ Anyhing can be altered along the way. Just click on
 
 <p align="center">
   <a href="https://mybinder.org/v2/gh/eduardo-rodrigues/2019-10-16_PyHEP2019_ParticlesDecays/master?urlpath=lab/ParticlesAndDecays.ipynb">
-    <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="40">
+    <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="30">
   </a>
 </p>
+
+Note that the notebook uses Python 3, though the packages also support Python 2 for now.
 
 
 ## Running everything on your own computer
