@@ -14,7 +14,7 @@ which no installation requirements on the user side.
 Anyhing can be altered along the way. Just click on
 
 <p align="center">
-  <a href="https://mybinder.org/v2/gh/eduardo-rodrigues/2019-10-16_PyHEP2019_ParticlesDecays/master?urlpath=lab/ParticlesAndDecays.ipynb">
+  <a href="https://mybinder.org/v2/gh/eduardo-rodrigues/2019-10-16_PyHEP2019Workshop/master/?urlpath=lab">
     <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder" height="30">
   </a>
 </p>
