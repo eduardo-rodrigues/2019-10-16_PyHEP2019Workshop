@@ -4,7 +4,7 @@ Presentation on the [Particle](https://github.com/scikit-hep/particle) and
 [DecayLanguage](https://github.com/scikit-hep/decaylanguage) packages
 of the [Scikit-HEP project](http://scikit-hep.org/)
 at the [PyHEP 2019 workshop](https://indico.cern.ch/e/PyHEP2019)
-in Abindgdon, U.K, 16-18 October 2019.
+in Abingdon, U.K, 16-18 October 2019.
 
 
 ## Installation-free run
