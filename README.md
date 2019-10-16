@@ -10,8 +10,8 @@ in Abingdon, U.K, 16-18 October 2019.
 ## Installation-free run
 
 One can straightforwardly run this notebook presentation on Binder,
-which no installation requirements on the user side.
-Anyhing can be altered along the way. Just click on
+with no installation requirements on the user side.
+Anything can be altered along the way. Just click on
 
 <p align="center">
   <a href="https://mybinder.org/v2/gh/eduardo-rodrigues/2019-10-16_PyHEP2019Workshop/master/?urlpath=lab">
